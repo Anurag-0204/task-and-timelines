@@ -13,6 +13,7 @@
 -Discussion about the website.
 -Completed the basic project of the react three fiber.
 -Now started with loading the model (glb mesh model) in react.
+-Loaded the stl model (bunny.stl).
 
 **BASIC PROJECT Covers : loading various mesh geometry models like cube, sphere, torus, torusKnot
                        grouping
